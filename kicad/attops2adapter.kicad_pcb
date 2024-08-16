@@ -1475,7 +1475,7 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "PS/2 ⇄ AT ADAPTER"
+	(gr_text "AT ⇄ PS/2 ADAPTER"
 		(at 32 16.1 0)
 		(layer "B.SilkS")
 		(uuid "759daaf5-8a2f-4fc2-bba3-744d634d4b79")
